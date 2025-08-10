@@ -1,0 +1,1844 @@
+[
+  {
+    "id": 1,
+    "name": "Chole Bhature",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chole",
+      "Bhature",
+      "Red chili powder",
+      "Turmeric",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Chole Bhature: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "23 mins",
+    "cook_time": "115 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Chole+Bhature"
+  },
+  {
+    "id": 2,
+    "name": "Rajma Chawal",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Rajma",
+      "Chawal",
+      "Red chili powder",
+      "Turmeric",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Rajma Chawal: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "17 mins",
+    "cook_time": "74 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Rajma+Chawal"
+  },
+  {
+    "id": 3,
+    "name": "Pav Bhaji",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Pav",
+      "Bhaji",
+      "Oil",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Pav Bhaji: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "15 mins",
+    "cook_time": "91 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Pav+Bhaji"
+  },
+  {
+    "id": 4,
+    "name": "Butter Chicken",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Butter",
+      "Chicken",
+      "Turmeric",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Butter Chicken: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "35 mins",
+    "cook_time": "29 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Butter+Chicken"
+  },
+  {
+    "id": 5,
+    "name": "Palak Paneer",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Cream",
+      "Spices",
+      "Palak",
+      "Paneer",
+      "Red chili powder",
+      "Turmeric",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Palak Paneer: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "13 mins",
+    "cook_time": "29 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Palak+Paneer"
+  },
+  {
+    "id": 6,
+    "name": "Masala Dosa",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Rice",
+      "Urad Dal",
+      "Fenugreek",
+      "Masala",
+      "Dosa",
+      "Turmeric",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Masala Dosa: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "17 mins",
+    "cook_time": "31 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Masala+Dosa"
+  },
+  {
+    "id": 7,
+    "name": "Hyderabadi Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Basmati Rice",
+      "Meat or Veg",
+      "Yogurt",
+      "Spices",
+      "Saffron",
+      "Hyderabadi",
+      "Biryani",
+      "Red chili powder",
+      "Salt",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Hyderabadi Biryani: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "55 mins",
+    "cook_time": "71 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Hyderabadi+Biryani"
+  },
+  {
+    "id": 8,
+    "name": "Kadhi Pakora",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Kadhi",
+      "Pakora",
+      "Red chili powder",
+      "Turmeric",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Kadhi Pakora: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "27 mins",
+    "cook_time": "73 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Kadhi+Pakora"
+  },
+  {
+    "id": 9,
+    "name": "Aloo Paratha",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Aloo",
+      "Paratha",
+      "Oil",
+      "Turmeric",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Aloo Paratha: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "29 mins",
+    "cook_time": "56 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Aloo+Paratha"
+  },
+  {
+    "id": 10,
+    "name": "Samosa",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Samosa",
+      "Salt",
+      "Turmeric",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Samosa: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "28 mins",
+    "cook_time": "71 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Samosa"
+  },
+  {
+    "id": 11,
+    "name": "Vada Pav",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Vada",
+      "Pav",
+      "Salt",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Vada Pav: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "35 mins",
+    "cook_time": "52 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Vada+Pav"
+  },
+  {
+    "id": 12,
+    "name": "Pani Puri",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Pani",
+      "Puri",
+      "Salt",
+      "Turmeric",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Pani Puri: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "12 mins",
+    "cook_time": "83 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Pani+Puri"
+  },
+  {
+    "id": 13,
+    "name": "Dhokla",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Dhokla",
+      "Turmeric",
+      "Red chili powder",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Dhokla: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "40 mins",
+    "cook_time": "89 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Dhokla"
+  },
+  {
+    "id": 14,
+    "name": "Idli Sambhar",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Rice",
+      "Urad Dal",
+      "Fenugreek",
+      "Idli",
+      "Sambhar",
+      "Oil",
+      "Salt",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Idli Sambhar: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "22 mins",
+    "cook_time": "120 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Idli+Sambhar"
+  },
+  {
+    "id": 15,
+    "name": "Rogan Josh",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Rogan",
+      "Josh",
+      "Red chili powder",
+      "Salt",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Rogan Josh: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "27 mins",
+    "cook_time": "95 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Rogan+Josh"
+  },
+  {
+    "id": 16,
+    "name": "Matar Paneer",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Cream",
+      "Spices",
+      "Matar",
+      "Paneer",
+      "Turmeric",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Matar Paneer: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "42 mins",
+    "cook_time": "98 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Matar+Paneer"
+  },
+  {
+    "id": 17,
+    "name": "Paneer Butter Masala",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Cream",
+      "Spices",
+      "Paneer",
+      "Butter",
+      "Turmeric",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Paneer Butter Masala: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "15 mins",
+    "cook_time": "78 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Paneer+Butter+Masala"
+  },
+  {
+    "id": 18,
+    "name": "Dal Makhani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Dal",
+      "Makhani",
+      "Oil",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Dal Makhani: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "44 mins",
+    "cook_time": "11 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Dal+Makhani"
+  },
+  {
+    "id": 19,
+    "name": "Tandoori Chicken",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Tandoori",
+      "Chicken",
+      "Turmeric",
+      "Oil",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Tandoori Chicken: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "21 mins",
+    "cook_time": "118 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Tandoori+Chicken"
+  },
+  {
+    "id": 20,
+    "name": "Chicken 65",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "65",
+      "Salt",
+      "Red chili powder",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Chicken 65: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "39 mins",
+    "cook_time": "62 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Chicken+65"
+  },
+  {
+    "id": 21,
+    "name": "Chicken Tikka Masala",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Tikka",
+      "Salt",
+      "Oil",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Chicken Tikka Masala: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "46 mins",
+    "cook_time": "103 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Chicken+Tikka+Masala"
+  },
+  {
+    "id": 22,
+    "name": "Korma",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Korma",
+      "Salt",
+      "Turmeric",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Korma: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "43 mins",
+    "cook_time": "93 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Korma"
+  },
+  {
+    "id": 23,
+    "name": "Baingan Bharta",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Baingan",
+      "Bharta",
+      "Salt",
+      "Turmeric",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Baingan Bharta: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "11 mins",
+    "cook_time": "33 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Baingan+Bharta"
+  },
+  {
+    "id": 24,
+    "name": "Aloo Gobi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Aloo",
+      "Gobi",
+      "Red chili powder",
+      "Salt",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Aloo Gobi: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "16 mins",
+    "cook_time": "74 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Aloo+Gobi"
+  },
+  {
+    "id": 25,
+    "name": "Bhindi Masala",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Bhindi",
+      "Masala",
+      "Turmeric",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Bhindi Masala: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "50 mins",
+    "cook_time": "68 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Bhindi+Masala"
+  },
+  {
+    "id": 26,
+    "name": "Prawn Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Prawn",
+      "Curry",
+      "Turmeric",
+      "Oil",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Prawn Curry: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "44 mins",
+    "cook_time": "111 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Prawn+Curry"
+  },
+  {
+    "id": 27,
+    "name": "Fish Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Fish",
+      "Curry",
+      "Turmeric",
+      "Oil",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Fish Curry: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "52 mins",
+    "cook_time": "101 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Fish+Curry"
+  },
+  {
+    "id": 28,
+    "name": "Litti Chokha",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Litti",
+      "Chokha",
+      "Oil",
+      "Turmeric",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Litti Chokha: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "60 mins",
+    "cook_time": "108 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Litti+Chokha"
+  },
+  {
+    "id": 29,
+    "name": "Gulab Jamun",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Gulab",
+      "Jamun",
+      "Turmeric",
+      "Red chili powder",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Gulab Jamun: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "37 mins",
+    "cook_time": "35 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Gulab+Jamun"
+  },
+  {
+    "id": 30,
+    "name": "Jalebi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Jalebi",
+      "Oil",
+      "Salt",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Jalebi: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "59 mins",
+    "cook_time": "50 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Jalebi"
+  },
+  {
+    "id": 31,
+    "name": "Rasgulla",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Rasgulla",
+      "Turmeric",
+      "Red chili powder",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Rasgulla: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "49 mins",
+    "cook_time": "53 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Rasgulla"
+  },
+  {
+    "id": 32,
+    "name": "Rabri",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Rabri",
+      "Turmeric",
+      "Oil",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Rabri: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "45 mins",
+    "cook_time": "52 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Rabri"
+  },
+  {
+    "id": 33,
+    "name": "Kheer",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Kheer",
+      "Red chili powder",
+      "Salt",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Kheer: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "23 mins",
+    "cook_time": "111 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Kheer"
+  },
+  {
+    "id": 34,
+    "name": "Seviyan",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Seviyan",
+      "Salt",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Seviyan: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "22 mins",
+    "cook_time": "95 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Seviyan"
+  },
+  {
+    "id": 35,
+    "name": "Malai Kofta",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Malai",
+      "Kofta",
+      "Oil",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Malai Kofta: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "13 mins",
+    "cook_time": "18 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Malai+Kofta"
+  },
+  {
+    "id": 36,
+    "name": "Haleem",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Haleem",
+      "Salt",
+      "Oil",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Haleem: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "58 mins",
+    "cook_time": "58 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Haleem"
+  },
+  {
+    "id": 37,
+    "name": "Keema Pav",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Keema",
+      "Pav",
+      "Salt",
+      "Oil",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Keema Pav: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "14 mins",
+    "cook_time": "112 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Keema+Pav"
+  },
+  {
+    "id": 38,
+    "name": "Pesarattu",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Pesarattu",
+      "Salt",
+      "Red chili powder",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Pesarattu: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "16 mins",
+    "cook_time": "34 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Pesarattu"
+  },
+  {
+    "id": 39,
+    "name": "Neer Dosa",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Rice",
+      "Urad Dal",
+      "Fenugreek",
+      "Neer",
+      "Dosa",
+      "Red chili powder",
+      "Salt",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Neer Dosa: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "23 mins",
+    "cook_time": "64 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Neer+Dosa"
+  },
+  {
+    "id": 40,
+    "name": "Appam",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Appam",
+      "Salt",
+      "Oil",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Appam: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "19 mins",
+    "cook_time": "34 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Appam"
+  },
+  {
+    "id": 41,
+    "name": "Kaju Katli",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Kaju",
+      "Katli",
+      "Oil",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Kaju Katli: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "51 mins",
+    "cook_time": "105 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Kaju+Katli"
+  },
+  {
+    "id": 42,
+    "name": "Besan Ladoo",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Besan",
+      "Ladoo",
+      "Oil",
+      "Salt",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Besan Ladoo: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "19 mins",
+    "cook_time": "29 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Besan+Ladoo"
+  },
+  {
+    "id": 43,
+    "name": "Puttu",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Puttu",
+      "Turmeric",
+      "Red chili powder",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Puttu: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "35 mins",
+    "cook_time": "26 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Puttu"
+  },
+  {
+    "id": 44,
+    "name": "Egg Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Egg",
+      "Curry",
+      "Turmeric",
+      "Oil",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Egg Curry: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "32 mins",
+    "cook_time": "82 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Egg+Curry"
+  },
+  {
+    "id": 45,
+    "name": "Egg Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Basmati Rice",
+      "Meat or Veg",
+      "Yogurt",
+      "Spices",
+      "Saffron",
+      "Egg",
+      "Biryani",
+      "Salt",
+      "Oil",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Egg Biryani: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "25 mins",
+    "cook_time": "40 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Egg+Biryani"
+  },
+  {
+    "id": 46,
+    "name": "Mutton Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Basmati Rice",
+      "Meat or Veg",
+      "Yogurt",
+      "Spices",
+      "Saffron",
+      "Mutton",
+      "Biryani",
+      "Red chili powder",
+      "Salt",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Mutton Biryani: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "32 mins",
+    "cook_time": "27 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Mutton+Biryani"
+  },
+  {
+    "id": 47,
+    "name": "Nihari",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Nihari",
+      "Red chili powder",
+      "Salt",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Nihari: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "17 mins",
+    "cook_time": "34 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Nihari"
+  },
+  {
+    "id": 48,
+    "name": "Sheermal",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Sheermal",
+      "Turmeric",
+      "Salt",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Sheermal: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "43 mins",
+    "cook_time": "47 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Sheermal"
+  },
+  {
+    "id": 49,
+    "name": "Aloo Tikki",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Aloo",
+      "Tikki",
+      "Salt",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Aloo Tikki: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "34 mins",
+    "cook_time": "10 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Aloo+Tikki"
+  },
+  {
+    "id": 50,
+    "name": "Chana Masala",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chana",
+      "Masala",
+      "Turmeric",
+      "Salt",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Chana Masala: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "28 mins",
+    "cook_time": "53 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Chana+Masala"
+  },
+  {
+    "id": 51,
+    "name": "Methi Paratha",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Methi",
+      "Paratha",
+      "Oil",
+      "Salt",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Methi Paratha: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "46 mins",
+    "cook_time": "89 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Methi+Paratha"
+  },
+  {
+    "id": 52,
+    "name": "Sarson Ka Saag",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Sarson",
+      "Ka",
+      "Oil",
+      "Salt",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Sarson Ka Saag: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "32 mins",
+    "cook_time": "75 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Sarson+Ka+Saag"
+  },
+  {
+    "id": 53,
+    "name": "Makki Ki Roti",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Makki",
+      "Ki",
+      "Turmeric",
+      "Oil",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Makki Ki Roti: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "33 mins",
+    "cook_time": "14 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Makki+Ki+Roti"
+  },
+  {
+    "id": 54,
+    "name": "Khichdi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Khichdi",
+      "Turmeric",
+      "Salt",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Khichdi: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "53 mins",
+    "cook_time": "26 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Khichdi"
+  },
+  {
+    "id": 55,
+    "name": "Dal Tadka",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Dal",
+      "Tadka",
+      "Turmeric",
+      "Red chili powder",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Dal Tadka: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "58 mins",
+    "cook_time": "44 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Dal+Tadka"
+  },
+  {
+    "id": 56,
+    "name": "Lauki Ki Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Lauki",
+      "Ki",
+      "Oil",
+      "Salt",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Lauki Ki Sabzi: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "46 mins",
+    "cook_time": "96 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Lauki+Ki+Sabzi"
+  },
+  {
+    "id": 57,
+    "name": "Gatte ki Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Gatte",
+      "ki",
+      "Turmeric",
+      "Salt",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Gatte ki Sabzi: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "48 mins",
+    "cook_time": "40 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Gatte+ki+Sabzi"
+  },
+  {
+    "id": 58,
+    "name": "Churma Ladoo",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Churma",
+      "Ladoo",
+      "Oil",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Churma Ladoo: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "15 mins",
+    "cook_time": "86 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Churma+Ladoo"
+  },
+  {
+    "id": 59,
+    "name": "Sattu Paratha",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Sattu",
+      "Paratha",
+      "Salt",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Sattu Paratha: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "57 mins",
+    "cook_time": "107 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Sattu+Paratha"
+  },
+  {
+    "id": 60,
+    "name": "Pork Vindaloo",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Pork",
+      "Vindaloo",
+      "Oil",
+      "Salt",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Pork Vindaloo: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "59 mins",
+    "cook_time": "113 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Pork+Vindaloo"
+  },
+  {
+    "id": 61,
+    "name": "Xacuti",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Xacuti",
+      "Oil",
+      "Turmeric",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Xacuti: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "39 mins",
+    "cook_time": "80 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Xacuti"
+  },
+  {
+    "id": 62,
+    "name": "Kolkata Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Basmati Rice",
+      "Meat or Veg",
+      "Yogurt",
+      "Spices",
+      "Saffron",
+      "Kolkata",
+      "Biryani",
+      "Oil",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Kolkata Biryani: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "53 mins",
+    "cook_time": "98 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Kolkata+Biryani"
+  },
+  {
+    "id": 63,
+    "name": "Chingri Malai Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chingri",
+      "Malai",
+      "Turmeric",
+      "Oil",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Chingri Malai Curry: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "14 mins",
+    "cook_time": "101 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Chingri+Malai+Curry"
+  },
+  {
+    "id": 64,
+    "name": "Chole",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chole",
+      "Salt",
+      "Turmeric",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Chole: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "36 mins",
+    "cook_time": "64 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Chole"
+  },
+  {
+    "id": 65,
+    "name": "Amritsari Fish",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Amritsari",
+      "Fish",
+      "Turmeric",
+      "Salt",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Amritsari Fish: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "49 mins",
+    "cook_time": "91 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Amritsari+Fish"
+  },
+  {
+    "id": 66,
+    "name": "Momos",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Momos",
+      "Red chili powder",
+      "Oil",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Momos: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "16 mins",
+    "cook_time": "83 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Momos"
+  },
+  {
+    "id": 67,
+    "name": "Chowmein",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chowmein",
+      "Red chili powder",
+      "Oil",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Chowmein: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "18 mins",
+    "cook_time": "74 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Chowmein"
+  },
+  {
+    "id": 68,
+    "name": "Hakka Noodles",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Hakka",
+      "Noodles",
+      "Salt",
+      "Oil",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Hakka Noodles: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "49 mins",
+    "cook_time": "38 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Hakka+Noodles"
+  },
+  {
+    "id": 69,
+    "name": "Manchurian",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Manchurian",
+      "Turmeric",
+      "Salt",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Manchurian: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "37 mins",
+    "cook_time": "105 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Manchurian"
+  },
+  {
+    "id": 70,
+    "name": "Kebabs",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Kebabs",
+      "Oil",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Kebabs: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "49 mins",
+    "cook_time": "57 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Kebabs"
+  },
+  {
+    "id": 71,
+    "name": "Seekh Kebab",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Seekh",
+      "Kebab",
+      "Salt",
+      "Turmeric",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Seekh Kebab: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "42 mins",
+    "cook_time": "94 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Seekh+Kebab"
+  },
+  {
+    "id": 72,
+    "name": "Tikka",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Tikka",
+      "Salt",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Tikka: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "26 mins",
+    "cook_time": "65 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Tikka"
+  },
+  {
+    "id": 73,
+    "name": "Bhelpuri",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Bhelpuri",
+      "Turmeric",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Bhelpuri: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "46 mins",
+    "cook_time": "90 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Bhelpuri"
+  },
+  {
+    "id": 74,
+    "name": "Dahi Vada",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Dahi",
+      "Vada",
+      "Salt",
+      "Oil",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Dahi Vada: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "21 mins",
+    "cook_time": "112 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Dahi+Vada"
+  },
+  {
+    "id": 75,
+    "name": "Shrikhand",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Shrikhand",
+      "Turmeric",
+      "Red chili powder",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Shrikhand: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "16 mins",
+    "cook_time": "19 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Shrikhand"
+  },
+  {
+    "id": 76,
+    "name": "Basundi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Basundi",
+      "Turmeric",
+      "Salt",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Basundi: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "38 mins",
+    "cook_time": "39 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Basundi"
+  },
+  {
+    "id": 77,
+    "name": "Bombay Sandwich",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Bombay",
+      "Sandwich",
+      "Turmeric",
+      "Red chili powder",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Bombay Sandwich: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "59 mins",
+    "cook_time": "12 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Bombay+Sandwich"
+  },
+  {
+    "id": 78,
+    "name": "Keema Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Keema",
+      "Curry",
+      "Oil",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Keema Curry: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "20 mins",
+    "cook_time": "94 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Keema+Curry"
+  },
+  {
+    "id": 79,
+    "name": "Bombil Fry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Bombil",
+      "Fry",
+      "Turmeric",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Bombil Fry: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "19 mins",
+    "cook_time": "51 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Bombil+Fry"
+  },
+  {
+    "id": 80,
+    "name": "Patra Ni Machhi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Patra",
+      "Ni",
+      "Salt",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Patra Ni Machhi: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "40 mins",
+    "cook_time": "46 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Patra+Ni+Machhi"
+  },
+  {
+    "id": 81,
+    "name": "Mysore Masala Dosa",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Rice",
+      "Urad Dal",
+      "Fenugreek",
+      "Mysore",
+      "Masala",
+      "Oil",
+      "Turmeric",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Mysore Masala Dosa: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "20 mins",
+    "cook_time": "87 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Mysore+Masala+Dosa"
+  },
+  {
+    "id": 82,
+    "name": "Moong Dal Halwa",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Moong",
+      "Dal",
+      "Turmeric",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Moong Dal Halwa: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "10 mins",
+    "cook_time": "103 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Moong+Dal+Halwa"
+  },
+  {
+    "id": 83,
+    "name": "Shahi Paneer",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Cream",
+      "Spices",
+      "Shahi",
+      "Paneer",
+      "Salt",
+      "Red chili powder",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Shahi Paneer: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "28 mins",
+    "cook_time": "98 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Shahi+Paneer"
+  },
+  {
+    "id": 84,
+    "name": "Paneer Tikka",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Cream",
+      "Spices",
+      "Paneer",
+      "Tikka",
+      "Red chili powder",
+      "Salt",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Paneer Tikka: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "40 mins",
+    "cook_time": "95 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Paneer+Tikka"
+  },
+  {
+    "id": 85,
+    "name": "Pahadi Chicken",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Pahadi",
+      "Chicken",
+      "Salt",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Pahadi Chicken: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "27 mins",
+    "cook_time": "40 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Pahadi+Chicken"
+  },
+  {
+    "id": 86,
+    "name": "Bhatura",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Bhatura",
+      "Salt",
+      "Red chili powder",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Bhatura: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "28 mins",
+    "cook_time": "104 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Bhatura"
+  },
+  {
+    "id": 87,
+    "name": "Kalakand",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Kalakand",
+      "Red chili powder",
+      "Turmeric",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Kalakand: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "26 mins",
+    "cook_time": "107 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Kalakand"
+  },
+  {
+    "id": 88,
+    "name": "Thalipeeth",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Thalipeeth",
+      "Red chili powder",
+      "Salt",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Thalipeeth: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "35 mins",
+    "cook_time": "110 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Thalipeeth"
+  },
+  {
+    "id": 89,
+    "name": "Upma",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Upma",
+      "Salt",
+      "Oil",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Upma: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "56 mins",
+    "cook_time": "104 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Upma"
+  },
+  {
+    "id": 90,
+    "name": "Poha",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Poha",
+      "Red chili powder",
+      "Turmeric",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Poha: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "35 mins",
+    "cook_time": "54 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Poha"
+  },
+  {
+    "id": 91,
+    "name": "Chaas",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chaas",
+      "Turmeric",
+      "Red chili powder",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Chaas: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "11 mins",
+    "cook_time": "46 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Chaas"
+  },
+  {
+    "id": 92,
+    "name": "Lassi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Lassi",
+      "Salt",
+      "Oil",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Lassi: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "59 mins",
+    "cook_time": "105 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Lassi"
+  },
+  {
+    "id": 93,
+    "name": "Masala Chai",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Masala",
+      "Chai",
+      "Turmeric",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Masala Chai: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "55 mins",
+    "cook_time": "45 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Masala+Chai"
+  },
+  {
+    "id": 94,
+    "name": "Nihari Gosht",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Nihari",
+      "Gosht",
+      "Salt",
+      "Oil",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Nihari Gosht: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "25 mins",
+    "cook_time": "95 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Nihari+Gosht"
+  },
+  {
+    "id": 95,
+    "name": "Chhena Poda",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chhena",
+      "Poda",
+      "Oil",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Chhena Poda: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "17 mins",
+    "cook_time": "60 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Chhena+Poda"
+  },
+  {
+    "id": 96,
+    "name": "Patrode",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Patrode",
+      "Turmeric",
+      "Oil",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Patrode: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "10 mins",
+    "cook_time": "17 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Patrode"
+  },
+  {
+    "id": 97,
+    "name": "Korma Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Korma",
+      "Curry",
+      "Oil",
+      "Turmeric",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Korma Curry: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "37 mins",
+    "cook_time": "69 mins",
+    "servings": 4,
+    "image": "https://via.placeholder.com/600x400.png?text=Korma+Curry"
+  },
+  {
+    "id": 98,
+    "name": "Chicken Xacuti",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Xacuti",
+      "Salt",
+      "Oil",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Chicken Xacuti: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "29 mins",
+    "cook_time": "68 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Chicken+Xacuti"
+  },
+  {
+    "id": 99,
+    "name": "Ambur Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Basmati Rice",
+      "Meat or Veg",
+      "Yogurt",
+      "Spices",
+      "Saffron",
+      "Ambur",
+      "Biryani",
+      "Oil",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Ambur Biryani: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "53 mins",
+    "cook_time": "38 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Ambur+Biryani"
+  },
+  {
+    "id": 100,
+    "name": "Mutton Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Mutton",
+      "Curry",
+      "Salt",
+      "Turmeric",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Mutton Curry: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "20 mins",
+    "cook_time": "45 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Mutton+Curry"
+  },
+  {
+    "id": 101,
+    "name": "Methi Thepla",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Methi",
+      "Thepla",
+      "Turmeric",
+      "Red chili powder",
+      "Salt"
+    ],
+    "instructions": "Simple steps to make Methi Thepla: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "13 mins",
+    "cook_time": "37 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Methi+Thepla"
+  },
+  {
+    "id": 102,
+    "name": "Kadhi Chawal",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Kadhi",
+      "Chawal",
+      "Red chili powder",
+      "Oil",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Kadhi Chawal: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "46 mins",
+    "cook_time": "24 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Kadhi+Chawal"
+  },
+  {
+    "id": 103,
+    "name": "Prawn Masala",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Prawn",
+      "Masala",
+      "Oil",
+      "Red chili powder",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Prawn Masala: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "18 mins",
+    "cook_time": "85 mins",
+    "servings": 1,
+    "image": "https://via.placeholder.com/600x400.png?text=Prawn+Masala"
+  },
+  {
+    "id": 104,
+    "name": "Tindora Fry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Tindora",
+      "Fry",
+      "Oil",
+      "Salt",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Tindora Fry: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "29 mins",
+    "cook_time": "76 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Tindora+Fry"
+  },
+  {
+    "id": 105,
+    "name": "Khandvi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Khandvi",
+      "Red chili powder",
+      "Oil",
+      "Turmeric"
+    ],
+    "instructions": "Simple steps to make Khandvi: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "31 mins",
+    "cook_time": "76 mins",
+    "servings": 3,
+    "image": "https://via.placeholder.com/600x400.png?text=Khandvi"
+  },
+  {
+    "id": 106,
+    "name": "Batata Vada",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Batata",
+      "Vada",
+      "Salt",
+      "Turmeric",
+      "Oil"
+    ],
+    "instructions": "Simple steps to make Batata Vada: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "53 mins",
+    "cook_time": "110 mins",
+    "servings": 2,
+    "image": "https://via.placeholder.com/600x400.png?text=Batata+Vada"
+  },
+  {
+    "id": 107,
+    "name": "Makhani Dal",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Makhani",
+      "Dal",
+      "Salt",
+      "Oil",
+      "Red chili powder"
+    ],
+    "instructions": "Simple steps to make Makhani Dal: prepare ingredients, follow standard cooking/process steps (marinate/cook/temper), and serve hot.",
+    "prep_time": "36 mins",
+    "cook_time": "24 mins",
+    "servings": 6,
+    "image": "https://via.placeholder.com/600x400.png?text=Makhani+Dal"
+  }
+]
